@@ -21,3 +21,17 @@ var numbersList = []
       }
       return numbersList;
      }
+
+     //front-end logic//
+
+     $(document).ready(function() {
+       $("form#ping-pong").submit(function(event) {
+         event.preventDefault();
+         $("ul#result").empty();
+         var numbers = parseInt($("input#number").val());
+         var numbersList = create_pong(numbers);
+         numbersList.forEach(function(item) {
+           $("ul#result").append("<li>"+item+"</li>")
+         });
+       });
+     });
