@@ -1,16 +1,12 @@
 h1 {
-  font-family: 'Aclonica', sans-serif;
   color: orange;
-  text-align: center;
   font-size: 80px;
 }
 h2 {
-  font-family: 'Aclonica', sans-serif;
   color: blue;
   font-size: 50px;
 }
 h3 {
-  font-family: 'Aclonica', sans-serif;
   color: green;
   font-size: 30px;
 }
@@ -20,6 +16,15 @@ body {
   font-size: 18px;
   font-family: 'Aclonica', sans-serif;
   color: darkred;
+}
+ul {
+  padding-left: 50%;
+  padding-right: 50%;
+  padding-top: 3%;
+}
+ol {
+  padding-left: 37%;
+  padding-right: 33%;
 }
 .btn {
   background-color: yellow;

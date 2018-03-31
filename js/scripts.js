@@ -1,4 +1,4 @@
-//backend logic//
+//back-end logic//
 
 function create_pong(numbers) {
 var numbersList = []
