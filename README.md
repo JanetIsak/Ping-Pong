@@ -1,8 +1,8 @@
-# _Moringa School IP3_
+# _Ping-Pong_
 
 #### _A Ping-Pong website, 03.31.2018 _
 
-#### By _**By Janet Isak**_
+#### By _**Janet Isak**_
 
 ## Description
 
@@ -10,12 +10,12 @@ _This website takes a number from a user and returns a range of numbers from 1 t
 
 Numbers divisible by 3 are replaced with "ping"
 Numbers divisible by 5 are replaced with "pong"
-Numbers divisible by 15 are replaced with "pingpong"__
+Numbers divisible by 15 are replaced with "pingpong"_
 
 ##Specifications
 _The whole process in plain English spec would be:_
-_Example Input: 2_
-_Example Output: [1,2]_
+* _Example Input: 2_
+* _Example Output: [1,2]_
 
 ## Setup/Installation Requirements
 
